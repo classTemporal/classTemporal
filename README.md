@@ -54,7 +54,7 @@ I like **coding** and **videogames** <img src="./assets/naruto-playing-video-gam
 
 <br>
 
-*Learning languages*:
+*Currently learning*:
 
 | <img src="./assets/react-original.svg" width="40" height="40"> | <img src="./assets/python-original.svg" width="40" height="40"> | <img src="./assets/django-plain-wordmark.svg" width="40" height="40"> |
 | ----------- | ----------- | ----------- |
